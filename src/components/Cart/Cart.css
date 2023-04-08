@@ -1,0 +1,26 @@
+.orange{
+    background-color: orange;
+    font-size: 20px;
+    
+   
+}
+.red{
+    background-color: rgb(134, 102, 43);
+    font-size: 20px;
+    border-radius: 20px;
+}
+.blue{
+    background-color: blue;
+    font-size: 20px;
+}
+.pink{
+    background-color: pink;
+    font-size: 20px;
+}
+.bold{
+    font-weight: bold;
+}
+.bordered{
+    border: 2px solid green;
+    border-radius: 30px;
+}
